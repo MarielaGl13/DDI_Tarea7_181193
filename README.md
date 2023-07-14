@@ -12,9 +12,10 @@
 ## 9A
 ### Desarrollo de Dispositivos Inteligentes
 
-
-`Nombre: `
-
-`Descripción: `
-
-`Fecha de Carga: `
+&nbsp;
+&nbsp;
+|  Característica |  Información |
+| :------------: | :------------: |
+| Nombre  |  Tarea 7 |
+| Descripción  |  Lectura y Visualización de la Hora |
+|  Fecha de Carga | 07/06/23  |
