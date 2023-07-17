@@ -14,8 +14,8 @@
 
 &nbsp;
 &nbsp;
-|  Característica |  Información |
+|  Características|  Información |
 | :------------: | :------------: |
-| Nombre  |  Tarea 7 |
-| Descripción  |  Lectura y Visualización de la Hora |
-|  Fecha de Carga | 07/06/23  |
+| **Nombre**  |  **Tarea 7.** *Lectura y Visualización de la Hora* |
+| **Descripción**  |  La aplicación "Hora y Día" aprovecha las capacidades de actualización en tiempo real de Wear OS, lo que significa que la hora y el día se actualizarán automáticamente a medida que pase el tiempo. |
+|  **Fecha de Carga** | 07/06/23  |
